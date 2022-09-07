@@ -1,7 +1,7 @@
 {
   "name": "autoupdatetest",
-  "app_version": "1.0.0",
-  "description": "",
+  "version": "1.0.0",
+  "description": "testing",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
