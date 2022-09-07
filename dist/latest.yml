@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: autoupdatetest-Setup-1.0.0.exe
+    sha512: 21afmlZe0iSNJFjM49m68g91SfGsCbBZJTpsamS3XX8zdDzd36e3xvbfmAetutKIqsytg8uesR+/toPCZK9zTA==
+    size: 67794224
+path: autoupdatetest-Setup-1.0.0.exe
+sha512: 21afmlZe0iSNJFjM49m68g91SfGsCbBZJTpsamS3XX8zdDzd36e3xvbfmAetutKIqsytg8uesR+/toPCZK9zTA==
+releaseDate: '2022-09-07T16:43:18.932Z'
